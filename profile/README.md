@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/113253647?s=200&v=4" alt="M45 Science Logo" width="200" />
 
-Welcome to **M45 Science**, established in 2017, a community focused on creating mods, tools, and services for the game Factorio. We maintain a collection of utilities that enhance gameplay, manage servers, and support the wider Factorio community.
+Welcome to **M45 Science**, established in 2017, a community focused on tools, and services for the game Factorio. We maintain a collection of utilities that enhance gameplay, manage servers, and support the wider Factorio community.
 
 ## Repositories
 
